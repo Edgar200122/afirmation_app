@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63204967485",
+    "project_id": "afirmation-9282b",
+    "storage_bucket": "afirmation-9282b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63204967485:android:d7813313eaceef766f5654",
+        "android_client_info": {
+          "package_name": "com.example.afirmation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63204967485-6lpvik08ebcu7ujpck88m7kfts6uokrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpmgt5u6s1RrR-TevLeHWc6rbPY3saPag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63204967485-6lpvik08ebcu7ujpck88m7kfts6uokrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
